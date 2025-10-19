@@ -41,8 +41,7 @@ The identification strategy strengthens the causual inference as the selection i
 *Pre-Treatment Coefficients are close to 0 and not significant, By 2023, a 10% increase in EV Stations above treatment year level.*
 
 
-**Regression Discontinuity: OZ Designation Effect**  
-![Regression Discontinuity](figures/Regression_Disc.png)
+** Parallel Line test to ensure pre-treatment effects are negligible, another way to visualize effects **  
 
-![Uploading Regression_Disc.png…]()
+<img width="776" height="553" alt="Regression_Disc" src="https://github.com/user-attachments/assets/fd8f31a7-9678-47d3-8a00-dc0de9a1c75a" />
 
