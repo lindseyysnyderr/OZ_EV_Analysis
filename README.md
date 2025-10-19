@@ -33,7 +33,7 @@ The identification strategy strengthens the causual inference as the selection i
 
 ## Figures
 **Event Study (Log Normalized EV Station Count)**  
-![Event Study](figures/LogNormalizedEventStudy.png) 
+
 <img width="1038" height="1020" alt="LogNormalizedEventStudy" src="https://github.com/user-attachments/assets/d460278d-d8b1-4e76-bc8c-6cee4f89d1f2" />
 
 *This figure displays the estimated dynamic effects of Opportunity Zone (OZ) designation on electric vehicle (EV) station density, normalized by square miles. Estimates come from a two-way fixed effects model with county and year fixed effects, where the outcome variable is log-transformed EV station count. Coefficients are shown relative to the year prior to OZ implementation (ref = -1), with 95% confidence intervals.*
